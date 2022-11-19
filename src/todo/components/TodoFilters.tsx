@@ -1,7 +1,7 @@
 const TodoFilters = () => {
   return (
     <div className="todo__filters">
-      <span>2 items left</span>
+      <span>1 item left</span>
       <ul>
         <li>All</li>
         <li>Active</li>
